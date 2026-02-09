@@ -1,5 +1,7 @@
 <h1>Olá, sou a Maria Clara 🌙</h1>
-<h2>Bem-vindo ao meu perfil no GitHub!👋                                                                                                                                                                                                                       
+<h2>Bem-vindo ao meu perfil no GitHub!👋  
+
+  
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
 
