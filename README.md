@@ -1,29 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil,%20sou%20a%20Maria%20Clara&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Acompanhe%20abaixo%20alguns%20dos%20meus%20trabalhos&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://raw.githubusercontent.com/clarinhamartins/clarinhamartins/main/assets/banner.svg" alt="Maria Clara" />
 
 <a href="https://github.com/clarinhamartins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9A7FF&center=true&vCenter=true&width=600&lines=Estudante%20de%20ADS%20no%20IFPI%20%F0%9F%8E%93;Build.%20Break.%20Learn.%20%E2%9A%99%EF%B8%8F;Tamb%C3%A9m%20em%20%40clarinhamartins11%20no%20Instagram%20%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C9A7FF&center=true&vCenter=true&width=760&lines=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20no%20IFPI%20%F0%9F%8E%93;Build.%20Break.%20Learn.%20%E2%9A%99%EF%B8%8F;Tamb%C3%A9m%20em%20%40clarinhamartins11%20no%20Instagram%20%E2%9C%A8" alt="typing" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=clarinhamartins&label=Visitas+no+perfil&color=c9a7ff&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/clarinhamartins?label=Seguidores&color=c9a7ff&style=flat-square&logo=github" alt="followers" />
-
-</div>
-
----
-
-## 🌙 Sobre mim
-
-<div align="center">
-
-| | |
-|---|---|
-| 📚 | Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Piauí |
-| 💻 | Aqui você vai encontrar projetos e códigos desenvolvidos no meu processo de aprendizado |
-| ✨ | Você também pode me encontrar como **"clarinhamartins11"** no Instagram |
 
 </div>
 
@@ -42,6 +28,8 @@
 ## 📌 Projeto em destaque
 
 <div align="center">
+
+### Acompanhe abaixo alguns dos meus trabalhos 🌙
 
 <a href="https://github.com/clarinhamartins/IpeBook">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarinhamartins&repo=IpeBook&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IpeBook" />
