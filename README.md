@@ -3,7 +3,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/clarinhamartins/clarinhamartins/main/assets/banner.svg" alt="Maria Clara" />
 
 <a href="https://github.com/clarinhamartins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C9A7FF&center=true&vCenter=true&width=760&lines=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20no%20IFPI%20%F0%9F%8E%93;Entre%20trilhas%2C%20esportes%2C%20c%C3%B3digos%20e%20pensamentos%20fora%20da%20caixa;Build.%20Break.%20Learn.%20%E2%9A%99%EF%B8%8F;Tamb%C3%A9m%20em%20%40clarinhamartins11%20no%20Instagram%20%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C9A7FF&center=true&vCenter=true&width=760&lines=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20no%20IFPI%20%F0%9F%8E%93;Entre%20trilhas%2C%20esportes%2C%20c%C3%B3digos%20e%20pensamentos%20fora%20da%20caixa%20%F0%9F%92%A1;Build.%20Break.%20Learn.%20%E2%9A%99%EF%B8%8F;Tamb%C3%A9m%20em%20%40clarinhamartins11%20no%20Instagram%20%E2%9C%A8" alt="typing" />
 </a>
 
 <br/>
