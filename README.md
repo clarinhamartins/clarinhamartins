@@ -15,24 +15,14 @@
 
 ---
 
-## 💬 Frase
-
-<div align="center">
-
-### *"Build. Break. Learn."* ⚙️
-
-</div>
-
----
-
 ## 📌 Projeto em destaque
 
 <div align="center">
 
 ### Acompanhe abaixo alguns dos meus trabalhos 🌙
 
-<a href="https://github.com/clarinhamartins/IpeBook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarinhamartins&repo=IpeBook&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IpeBook" />
+<a href="https://github.com/Ghostyxseven/IpeBook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ghostyxseven&repo=IpeBook&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IpeBook" />
 </a>
 
 *(mais projetos em destaque por vir ✨)*
@@ -114,7 +104,4 @@
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
-
-### ⚙️ Build. Break. Learn. 🌙
-
 </div>
