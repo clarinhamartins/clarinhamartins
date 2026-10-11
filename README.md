@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=clarinhamartins&label=Visitas+no+perfil&color=c9a7ff&style=flat-square" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=clarinhamartins.clarinhamartins&left_color=%230d1117&right_color=%23c9a7ff&left_text=Visitas%20no%20perfil" alt="profile views" />
 
 </div>
 
@@ -70,15 +70,7 @@
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clarinhamartins&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9a7ff&line=a78bfa&point=e0c3fc&area=true&area_color=a78bfa" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br clear="both">
+## 🐍 Contribuições
 
 <div align="center">
 
