@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ghostyxseven&repo=IPEBOOK_&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IPEBOOK_" />
 </a>
 
-<p>O IpêBook🌼📚 é uma plataforma comunitária voltada para a compra, venda, troca e doação de livros. O objetivo do projeto é permitir que as pessoas encontrem livros disponíveis perto de sua localização, compartilhem obras já lidas e promovam a circulação sustentável de livros na comunidade.</p>
+<p>O IpêBook🌳📚 é uma plataforma comunitária voltada para a compra, venda, troca e doação de livros. O objetivo do projeto é permitir que as pessoas encontrem livros disponíveis perto de sua localização, compartilhem obras já lidas e promovam a circulação sustentável de livros na comunidade.</p>
 
 *(mais projetos em destaque por vir ✨)*
 
