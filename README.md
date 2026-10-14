@@ -20,8 +20,8 @@
 
 ### Acompanhe abaixo alguns dos meus trabalhos 🌙
 
-<a href="https://github.com/Ghostyxseven/IpeBook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ghostyxseven&repo=IpeBook&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IpeBook" />
+<a href="https://github.com/Ghostyxseven/IPEBOOK_">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ghostyxseven&repo=IPEBOOK_&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a7ff&icon_color=c9a7ff&text_color=c9d1d9" alt="IPEBOOK_" />
 </a>
 
 *(mais projetos em destaque por vir ✨)*
